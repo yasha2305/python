@@ -8,8 +8,8 @@ if a > b and a > c:
 elif b > c: 
     print("Largest number =",b)
 else:
-<<<<<<< HEAD
+
     print("Largest number =",c)
-=======
+
     print("Largest number =",c)
->>>>>>> 83c2abb8fee3f18ea2d1fc2ef768ce7c4940f141
+
