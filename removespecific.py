@@ -1,3 +1,3 @@
 lst = list(map(int, input().split()))
-lst.insert(0, 99)
+lst.remove(int(input()))
 print(lst)
