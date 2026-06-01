@@ -11,8 +11,9 @@ CREATE TABLE IF NOT EXISTS students(
     name TEXT NOT NULL,
     course TEXT NOT NULL,
     marks REAL
-)
-""")
+    3
+    3
+)kjg5)
 conn.commit()
 
 # Add student
