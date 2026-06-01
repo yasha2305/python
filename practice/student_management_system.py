@@ -13,7 +13,7 @@ CREATE TABLE IF NOT EXISTS students(
     marks REAL
     3
     3
-)kjg5)
+))
 conn.commit()
 
 # Add student
