@@ -1,0 +1,90 @@
+[
+    {
+        "user": "hi",
+        "bot": "Hello! How are you?"
+    },
+    {
+        "user": "not fine",
+        "bot": "I don't fully understand that yet."
+    },
+    {
+        "user": "i'm not well",
+        "bot": "I don't fully understand that yet."
+    },
+    {
+        "user": "what do you understand",
+        "bot": "I don't fully understand that yet."
+    },
+    {
+        "user": "what's your name",
+        "bot": "I am a Python AI Chatbot."
+    },
+    {
+        "user": "what can you do for me",
+        "bot": "I don't fully understand that yet."
+    },
+    {
+        "user": "task you can dp",
+        "bot": "I don't fully understand that yet."
+    },
+    {
+        "user": "task you can do",
+        "bot": "I don't fully understand that yet."
+    },
+    {
+        "user": "date",
+        "bot": "Today's date is 19-10-2026"
+    },
+    {
+        "user": "time",
+        "bot": "Current time is 11:11 PM"
+    },
+    {
+        "user": "day",
+        "bot": "I don't fully understand that yet."
+    },
+    {
+        "user": "time",
+        "bot": "Current time is 05:52 PM"
+    },
+    {
+        "user": "date",
+        "bot": "Today's date is 20-10-2026"
+    },
+    {
+        "user": "name",
+        "bot": "I don't fully understand that yet."
+    },
+    {
+        "user": "your name",
+        "bot": "I am a Python AI Chatbot."
+    },
+    {
+        "user": "date",
+        "bot": "Today's date is 20-10-2026"
+    },
+    {
+        "user": "time",
+        "bot": "Current time is 06:05 PM"
+    },
+    {
+        "user": "age",
+        "bot": "I don't fully understand that yet."
+    },
+    {
+        "user": "\\",
+        "bot": "I don't fully understand that yet."
+    },
+    {
+        "user": "praying",
+        "bot": "I don't fully understand that yet."
+    },
+    {
+        "user": "namepython -u \"c:\\Users\\Mukesh\\coding\\python\\practice\\example.py\"",
+        "bot": "I don't fully understand that yet."
+    },
+    {
+        "user": "exit",
+        "bot": "Goodbye! Have a nice day."
+    }
+]
